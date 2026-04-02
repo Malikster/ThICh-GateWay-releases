@@ -1,10 +1,10 @@
-# ThICH GateWay Releases
+# ThICh GateWay Releases
 
-Acest repository public conține doar artefactele de distribuție pentru aplicația Android **ThICH GateWay**: APK-uri release, checksums și release notes per versiune. Codul sursă rămâne în repository-ul privat.
+Acest repository public conține doar artefactele de distribuție pentru aplicația Android **ThICh GateWay**: APK-uri release, checksums și release notes per versiune. Codul sursă rămâne în repository-ul privat.
 
 ## Ce este aplicația
 
-ThICH GateWay este o aplicație Android folosită în familie pentru deschiderea garajului sau a porții după autentificare locală pe telefon și trimiterea unei comenzi prin MQTT în rețeaua internă.
+ThICh GateWay este o aplicație Android folosită în familie pentru deschiderea garajului sau a porții după autentificare locală pe telefon și trimiterea unei comenzi prin MQTT în rețeaua internă.
 
 ## Ce găsești în acest repository
 
