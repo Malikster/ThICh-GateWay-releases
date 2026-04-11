@@ -1,0 +1,3 @@
+f07d58c48f2242e23de8b2e91dd7244b6cfa79026a9fd30c23198c1bf4d26e72 *thich-gateway-v1.1.3-arm64-v8a.apk
+f07d58c48f2242e23de8b2e91dd7244b6cfa79026a9fd30c23198c1bf4d26e72 *thich-gateway-v1.1.3-armeabi-v7a.apk
+f07d58c48f2242e23de8b2e91dd7244b6cfa79026a9fd30c23198c1bf4d26e72 *thich-gateway-v1.1.3-universal.apk
