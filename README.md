@@ -1,5 +1,7 @@
 # ThICh GateWay Releases
 
+Ultima versiune publicata: v1.2.2
+
 Ultima versiune publicata: v1.2.1
 
 Ultima versiune publicata: v1.2.0
@@ -42,5 +44,6 @@ Fiecare versiune publicata are propriile note in sectiunea [Releases](../../rele
 - Nu contine codul sursa al aplicatiei.
 - Nu contine keystore, chei, token-uri sau alte secrete.
 - Este folosit exclusiv pentru distributia privata a versiunilor APK.
+
 
 
