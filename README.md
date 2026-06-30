@@ -1,5 +1,7 @@
 # ThICh GateWay Releases
 
+Ultima versiune publicata: v1.2.1
+
 Ultima versiune publicata: v1.2.0
 
 Acest repository public contine doar artefactele de distributie pentru aplicatia Android **ThICh GateWay**: APK-uri release, checksums si release notes per versiune. Codul sursa ramane in repository-ul privat.
@@ -40,4 +42,5 @@ Fiecare versiune publicata are propriile note in sectiunea [Releases](../../rele
 - Nu contine codul sursa al aplicatiei.
 - Nu contine keystore, chei, token-uri sau alte secrete.
 - Este folosit exclusiv pentru distributia privata a versiunilor APK.
+
 
